@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Marck+Script&display=swap');
+.parent{
+    background-color:black;
+    width: 100%;
+    height: 360px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items:baseline;
+}
+body{
+    background-color: black;
+}
+.col{
+    width: 230px;
+    height: 300px;
+    border: black 2px solid;
+    border-radius: 15px;
+    background-color: white;
+}
+h1{
+    text-align: center;
+    background-color: rgb(250, 250, 233);
+    font-family: 'Gruppo', cursive;
+}
+h2{
+    text-align: center;
+    margin-top: 4px;
+    font-family: 'Gruppo', cursive;
+    
+}
+p{
+    margin-top: -12px;
+    margin-left: 10px;
+    font-size: 13px;
+    font-family:'Marck Script', cursive;
+}
+button{
+    background-color: black;
+    margin-left: 90px;
+    border-radius: 8px;
+    width: 100px;
+    height: 25px;
+    margin-top: -12px;
+    color: white;
+}
+button:hover{
+    background-color: white;
+    color:black;
+}
+img{
+    width: 200px;
+    height: 150px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:baseline;
+    margin-top: 15px;
+    border-radius: 15px;
+    
+    
+    
+}
